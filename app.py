@@ -14,7 +14,7 @@ def get_prediction(data={"num_countries":0,"years_school":9.5,"height":4.165}):
 #creating the web app
 
 #title
-st.title("Age Project")#change the title according to your project
+st.title("Age Project 01")#change the title according to your project
 
 #dashboard
 st.subheader("User Dashboard")
